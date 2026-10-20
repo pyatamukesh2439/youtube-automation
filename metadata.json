@@ -1,0 +1,6 @@
+{
+  "name": "TubeAutomate - YouTube AI Automation Studio",
+  "description": "Automate viral YouTube videos with 50+ AI engines for scripts, thumbnails, voiceovers, auto-upload scheduling, and monetization analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
